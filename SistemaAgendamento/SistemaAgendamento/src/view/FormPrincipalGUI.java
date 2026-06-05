@@ -50,9 +50,10 @@ public class FormPrincipalGUI extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(0, 0, 0));
-        jLabel1.setText("Home");
+        jLabel1.setText("Minha Agenda\n");
 
         tbCompromisso.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
@@ -64,12 +65,15 @@ public class FormPrincipalGUI extends javax.swing.JFrame {
         ));
         jScrollPane1.setViewportView(tbCompromisso);
 
+        btnExcluir.setBackground(new java.awt.Color(255, 204, 204));
         btnExcluir.setText("Excluir");
         btnExcluir.addActionListener(this::btnExcluirActionPerformed);
 
+        btnAdicionar.setBackground(new java.awt.Color(204, 255, 204));
         btnAdicionar.setText("Adicionar");
         btnAdicionar.addActionListener(this::btnAdicionarActionPerformed);
 
+        btnEditar.setBackground(new java.awt.Color(204, 204, 204));
         btnEditar.setText("Editar");
         btnEditar.addActionListener(this::btnEditarActionPerformed);
 

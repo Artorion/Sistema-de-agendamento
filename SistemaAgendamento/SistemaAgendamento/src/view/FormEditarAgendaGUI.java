@@ -51,20 +51,26 @@ public class FormEditarAgendaGUI extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+
+        jLabel1.setFont(new java.awt.Font("Segoe UI", 3, 18)); // NOI18N
         jLabel1.setText("Edição");
 
-        jLabel2.setText("Código");
+        jLabel2.setText("Código:");
 
-        jLabel3.setText("Titulo");
+        jLabel3.setText("Titulo:");
 
-        jLabel4.setText("Descrição");
+        jLabel4.setText("Descrição:");
 
-        jLabel5.setText("Data");
+        jLabel5.setText("Data:");
 
+        BtnEditar.setBackground(new java.awt.Color(204, 255, 204));
         BtnEditar.setText("Editar");
         BtnEditar.addActionListener(this::BtnEditarActionPerformed);
 
+        btnCancelar.setBackground(new java.awt.Color(255, 204, 204));
         btnCancelar.setText("Cancelar");
+        btnCancelar.addActionListener(this::btnCancelarActionPerformed);
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -121,7 +127,7 @@ public class FormEditarAgendaGUI extends javax.swing.JFrame {
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(BtnEditar)
                     .addComponent(btnCancelar))
-                .addContainerGap(286, Short.MAX_VALUE))
+                .addContainerGap(277, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -161,6 +167,10 @@ public class FormEditarAgendaGUI extends javax.swing.JFrame {
             
         }
     }//GEN-LAST:event_BtnEditarActionPerformed
+
+    private void btnCancelarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCancelarActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnCancelarActionPerformed
 
     public static void main(String args[]) {
        java.awt.EventQueue.invokeLater(new Runnable() {
