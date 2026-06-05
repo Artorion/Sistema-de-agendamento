@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_G09I4WBaEfGsmrlxQNTRiw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_G09I4mBaEfGsmrlxQNTRiw" bindingContexts="_G09I62BaEfGsmrlxQNTRiw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CadastroController.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799208715\SistemaAgendamento\build\classes\controller\CadastroController.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799208715/SistemaAgendamento/build/classes/controller/CadastroController.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;zipeditor.ZipEditor&quot; name=&quot;SistemaAgendamento.zip&quot; tooltip=&quot;C:\Users\aplim\OneDrive\UMCjava\Sistema-de-agendamento\SistemaAgendamento.zip&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/OneDrive/UMCjava/Sistema-de-agendamento/SistemaAgendamento.zip&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CompromissoController.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\controller\CompromissoController.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/controller/CompromissoController.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CadastroController.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\controller\CadastroController.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/controller/CadastroController.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;FormLoginGUI.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\view\FormLoginGUI.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/view/FormLoginGUI.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;.netbeans_update_resources&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\.netbeans_update_resources&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/.netbeans_update_resources&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;.netbeans_automatic_build&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\.netbeans_automatic_build&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/.netbeans_automatic_build&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;FormPrincipalGUI.form&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1803809041\SistemaAgendamento\src\view\FormPrincipalGUI.form&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1803809041/SistemaAgendamento/src/view/FormPrincipalGUI.form&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CadastroController.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1788474804\SistemaAgendamento\build\classes\controller\CadastroController.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1788474804/SistemaAgendamento/build/classes/controller/CadastroController.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CadastroController.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799208715\SistemaAgendamento\build\classes\controller\CadastroController.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799208715/SistemaAgendamento/build/classes/controller/CadastroController.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;zipeditor.ZipEditor&quot; name=&quot;SistemaAgendamento.zip&quot; tooltip=&quot;C:\Users\aplim\OneDrive\UMCjava\Sistema-de-agendamento\SistemaAgendamento.zip&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/OneDrive/UMCjava/Sistema-de-agendamento/SistemaAgendamento.zip&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CompromissoController.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\controller\CompromissoController.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/controller/CompromissoController.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CadastroController.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\controller\CadastroController.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/controller/CadastroController.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;FormLoginGUI.class&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\view\FormLoginGUI.class&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/view/FormLoginGUI.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;.netbeans_update_resources&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\.netbeans_update_resources&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/.netbeans_update_resources&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;.netbeans_automatic_build&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1799509678\SistemaAgendamento\build\classes\.netbeans_automatic_build&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1799509678/SistemaAgendamento/build/classes/.netbeans_automatic_build&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;FormPrincipalGUI.form&quot; tooltip=&quot;C:\Users\aplim\AppData\Local\Temp\zip-1803809041\SistemaAgendamento\src\view\FormPrincipalGUI.form&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1803809041/SistemaAgendamento/src/view/FormPrincipalGUI.form&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_G09I4mBaEfGsmrlxQNTRiw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_HEs1EmBaEfGsmrlxQNTRiw" label="%trimmedwindow.label.eclipseSDK" x="156" y="156" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_G09I4mBaEfGsmrlxQNTRiw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_HEs1EmBaEfGsmrlxQNTRiw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -108,7 +108,7 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_HQaV2mBaEfGsmrlxQNTRiw" containerData="7500" selectedElement="_HQaV22BaEfGsmrlxQNTRiw">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_HQaV2mBaEfGsmrlxQNTRiw" containerData="7500" selectedElement="_HQaV5GBaEfGsmrlxQNTRiw">
               <children xsi:type="basic:PartSashContainer" xmi:id="_HQaV22BaEfGsmrlxQNTRiw" containerData="7500" selectedElement="_HQaV3GBaEfGsmrlxQNTRiw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_HQaV3GBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_HQGz0GBaEfGsmrlxQNTRiw"/>
                 <children xsi:type="basic:PartStack" xmi:id="_HQaV3WBaEfGsmrlxQNTRiw" elementId="right" containerData="2500" selectedElement="_HQaV3mBaEfGsmrlxQNTRiw">
@@ -139,8 +139,10 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_HQaV5GBaEfGsmrlxQNTRiw" elementId="bottom" containerData="2500" selectedElement="_HQaV5WBaEfGsmrlxQNTRiw">
+              <children xsi:type="basic:PartStack" xmi:id="_HQaV5GBaEfGsmrlxQNTRiw" elementId="bottom" containerData="2500" selectedElement="_-Zi4cGB9EfGqyLj3Zme42A">
                 <tags>org.eclipse.e4.secondaryDataStack</tags>
+                <tags>General</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_HQaV5WBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.views.ProblemView" ref="_HQOvomBaEfGsmrlxQNTRiw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -172,6 +174,10 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_HQaV7GBaEfGsmrlxQNTRiw" elementId="org.eclipse.terminal.view.ui.TerminalsView" toBeRendered="false" ref="_HQZHsGBaEfGsmrlxQNTRiw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Terminal</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_-Zi4cGB9EfGqyLj3Zme42A" elementId="org.eclipse.pde.runtime.LogView" ref="_-ZiRYGB9EfGqyLj3Zme42A" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
                 </children>
               </children>
             </children>
@@ -218,10 +224,9 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_HQGz0GBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.editorss" selectedElement="_HQGz0WBaEfGsmrlxQNTRiw">
-      <children xsi:type="basic:PartStack" xmi:id="_HQGz0WBaEfGsmrlxQNTRiw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_942IgGBkEfGGM6ljmRPpfg">
+      <children xsi:type="basic:PartStack" xmi:id="_HQGz0WBaEfGsmrlxQNTRiw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_9XeXcGB9EfGqyLj3Zme42A">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
-        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_ihhLAGBkEfGGM6ljmRPpfg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SistemaAgendamento.zip" iconURI="platform:/plugin/ZipEditor/icons/zipicon.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;zipeditor.ZipEditor&quot; name=&quot;SistemaAgendamento.zip&quot; partName=&quot;SistemaAgendamento.zip&quot; title=&quot;SistemaAgendamento.zip&quot; tooltip=&quot;C:\Users\aplim\OneDrive\UMCjava\Sistema-de-agendamento\SistemaAgendamento.zip&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/aplim/OneDrive/UMCjava/Sistema-de-agendamento/SistemaAgendamento.zip&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -233,8 +238,12 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.ClassFileEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_9XeXcGB9EfGqyLj3Zme42A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/classf_obj.svg" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;CadastroController.class&quot; title=&quot;CadastroController.class&quot; tooltip=&quot;&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/aplim/AppData/Local/Temp/zip-1788474804/SistemaAgendamento/build/classes/controller/CadastroController.class&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.ClassFileEditor</tags>
         </children>
       </children>
     </sharedElements>
@@ -370,6 +379,20 @@
       <tags>View</tags>
       <tags>categoryTag:Ant</tags>
     </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_-ZiRYGB9EfGqyLj3Zme42A" elementId="org.eclipse.pde.runtime.LogView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Error Log" iconURI="platform:/plugin/org.eclipse.ui.views.log/icons/eview16/error_log.svg" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views.log"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.log.LogView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view activate=&quot;false&quot; activateError=&quot;true&quot; activateWarn=&quot;false&quot; allSessions=&quot;true&quot; column2=&quot;300&quot; column3=&quot;150&quot; column4=&quot;150&quot; error=&quot;true&quot; groupBy=&quot;0&quot; info=&quot;true&quot; limit=&quot;50&quot; maxLogTailSize=&quot;1&quot; ok=&quot;true&quot; orderType=&quot;2&quot; orderValue=&quot;-1&quot; show_filter_text=&quot;true&quot; useLimit=&quot;true&quot; warning=&quot;true&quot;/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
+      <menus xmi:id="_-Z9IIGB9EfGqyLj3Zme42A" elementId="org.eclipse.pde.runtime.LogView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_-Z9IIWB9EfGqyLj3Zme42A" elementId="org.eclipse.pde.runtime.LogView" visible="false"/>
+    </sharedElements>
     <trimBars xmi:id="_G09I42BaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.platform">
       <children xsi:type="menu:ToolBar" xmi:id="_HG7psGBaEfGsmrlxQNTRiw" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -377,7 +400,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HG9e4GBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3UTOsGBqEfG21PpGiNhNsw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.svg" tooltip="Print" command="_G1i-wWBaEfGsmrlxQNTRiw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2dUowGB9EfGqyLj3Zme42A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.svg" tooltip="Print" command="_G1i-wWBaEfGsmrlxQNTRiw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HG-F8GBaEfGsmrlxQNTRiw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -385,8 +408,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HG-F8mBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3UWSAGBqEfG21PpGiNhNsw" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.svg" tooltip="Undo" enabled="false" command="_G1gjAWBaEfGsmrlxQNTRiw"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3UW5EGBqEfG21PpGiNhNsw" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.svg" tooltip="Redo" enabled="false" command="_G1hwwWBaEfGsmrlxQNTRiw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2dV24GB9EfGqyLj3Zme42A" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.svg" tooltip="Undo" enabled="false" command="_G1gjAWBaEfGsmrlxQNTRiw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2dV24WB9EfGqyLj3Zme42A" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.svg" tooltip="Redo" enabled="false" command="_G1hwwWBaEfGsmrlxQNTRiw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HG-F82BaEfGsmrlxQNTRiw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -410,7 +433,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HG-tAGBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3UZVUGBqEfG21PpGiNhNsw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.svg" tooltip="Pin Editor" type="Check" command="_G1iYFGBaEfGsmrlxQNTRiw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2dWd8WB9EfGqyLj3Zme42A" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.svg" tooltip="Pin Editor" enabled="false" type="Check" command="_G1iYFGBaEfGsmrlxQNTRiw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZnB8QGBkEfGGM6ljmRPpfg" elementId="org.eclipse.jdt.ui.ClassFileEditor" visible="false">
         <tags>Draggable</tags>
@@ -2432,7 +2455,7 @@
   <addons xmi:id="_G09I92BaEfGsmrlxQNTRiw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_G09I-GBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_G1FrwGBaEfGsmrlxQNTRiw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_2iZ3sWBqEfG21PpGiNhNsw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_G1c4IGBaEfGsmrlxQNTRiw" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_G1c4IWBaEfGsmrlxQNTRiw" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
